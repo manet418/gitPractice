@@ -7,6 +7,5 @@ public class Student {
         System.out.println("i am student");
         System.out.println("my name is sara");
         System.out.println("");
-        System.out.println("");
     }
 }
